@@ -10,7 +10,7 @@ pipeline{
                 
                 script{
                     
-                    git branch: 'main', url: 'https://github.com/buddipammu2616/ashvitha.git'
+                    git branch: 'master', url: 'https://github.com/buddipammu2616/ashvitha.git'
                 }
             }
         }
